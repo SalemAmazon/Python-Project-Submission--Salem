@@ -3,7 +3,7 @@ Movie Suggestion Bot
 
 ## Overview
 
-This project presents a movie suggestion bot designed to recommend movies based on a genre inputted by the user. The bot employs web scraping techniques to gather movie data from IMDb, and then uses this data to suggest relevant movies according to user preferences.
+This project presents a movie suggestion bot designed to recommend a movie based on a genre inputted by the user. The bot employs web scraping techniques to gather movie data from IMDb, and then uses this data to suggest relevant movie according to user preferences.
 
 ## Features
 
@@ -22,15 +22,7 @@ Ensure you have the required libraries installed by running:
 pip install beautifulsoup4 pandas requests jupyter
 
 
-## Dependencies
-beautifulsoup4: Utilized for web scraping IMDb.
-pandas: Used for data manipulation and reading from the .csv file.
-requests: Facilitates making HTTP requests to IMDb.
 
-## Screenshots
-A series of screenshots showcasing the bot in action are included in the repository. These provide visual insights into the bot's functionality, error handling capabilities, and user interface.
 
-## Future Improvements
-Integration of user reviews and ratings for more tailored suggestions.
-Expanding the bot's genre database for a wider variety of movie recommendations.
-Implementing a GUI for enhanced user experience.
+
+
