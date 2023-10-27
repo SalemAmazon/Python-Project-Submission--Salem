@@ -25,4 +25,16 @@ pip install beautifulsoup4 pandas requests jupyter
 
 
 
+Dependencies
+beautifulsoup4: Used for web scraping IMDb.
+pandas: Utilized for data manipulation and reading from the .csv file.
+requests: Enables making HTTP requests to IMDb.
+Screenshots
+A series of screenshots showcasing the bot's functionality, error handling capabilities, and user interface are included in the repository. These screenshots provide visual insights into how the bot operates.
 
+Future Improvements
+Here are some potential enhancements for the Movie Suggestion Bot:
+
+Integration of user reviews and ratings to provide more personalized movie suggestions.
+Expansion of the bot's genre database to offer a wider variety of movie recommendations.
+Implementation of a graphical user interface (GUI) to enhance the overall user experience.
